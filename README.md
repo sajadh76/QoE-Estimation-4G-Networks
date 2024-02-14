@@ -1,8 +1,8 @@
 # QoE-estimation-4G-Networks
 
 ## Overview
-This project aims to estimate the user satisfiction in 4G networks, relatively to the usage of YouTube Service. The this project takes as input Crowdsourcing Data (i.e., data measured directly at users terminals) and will output the
-corresponding users satisfaction class.
+This project aims to estimate the user satisfaction in 4G networks, relative to the usage of YouTube Service. This project takes as input Crowdsourcing Data (i.e., data measured directly at user's terminals) and will output the
+corresponding user satisfaction class.
 
 ## Dataset
 You can find some data samples available in two .csv files.
